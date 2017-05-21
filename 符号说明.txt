@@ -1,4 +1,4 @@
-符号说明
+路没潞脜脣碌脙梅
 emperature                     K
 pressure, fugacity              kPa
 density                         mol/L
@@ -16,4 +16,4 @@ thermal conductivity            W/(m.K)
 dipole moment                   debye
 surface tension                 N/m
 
-wm                             摩尔数
+wm 聽 聽 聽 聽 聽 聽 聽 聽 聽 聽 聽 聽 聽 聽 molar mass g/mol
