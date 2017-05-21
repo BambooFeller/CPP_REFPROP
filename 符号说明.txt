@@ -1,0 +1,19 @@
+·ûºÅËµÃ÷
+emperature                     K
+pressure, fugacity              kPa
+density                         mol/L
+composition                     mole fraction
+quality                         mole basis (moles vapor/total moles)
+enthalpy, internal energy       J/mol
+Gibbs, Helmholtz free energy    J/mol
+entropy, heat capacity          J/(mol.K)
+speed of sound                  m/s
+Joule-Thompson coefficient      K/kPa
+d(p)/d(rho)                     kPa.L/mol
+d2(p)/d(rho)2                   kPa.(L/mol)^2
+viscosity                       microPa.s (10^-6 Pa.s)
+thermal conductivity            W/(m.K)
+dipole moment                   debye
+surface tension                 N/m
+
+wm                             Ä¦¶ûÊý
